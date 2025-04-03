@@ -9,7 +9,7 @@ MarkupSafe==1.1.1
 pudb==2019.2
 Pygments==2.7.4
 requests==2.22.0
-urllib3==1.26.5
+urllib3==1.26.19
 urwid==2.1.0
 flask-cors==4.0.2
 Werkzeug==3.0.6
