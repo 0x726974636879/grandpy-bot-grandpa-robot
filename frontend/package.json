@@ -23,7 +23,7 @@
   "devDependencies": {
     "axios": "^0.30.0",
     "google-map-react": "^1.1.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react-loading": "^2.0.3"
   },
   "browserslist": {
