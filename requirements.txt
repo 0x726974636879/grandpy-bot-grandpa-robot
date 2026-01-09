@@ -12,6 +12,6 @@ requests==2.32.2
 urllib3==1.26.19
 urwid==2.1.0
 flask-cors==6.0.0
-Werkzeug==3.0.6
+Werkzeug==3.1.5
 gunicorn==23.0.0
 unipath==1.1
