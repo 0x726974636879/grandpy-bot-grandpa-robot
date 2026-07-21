@@ -21,7 +21,7 @@
     "npm"
   ],
   "devDependencies": {
-    "axios": "^0.32.0",
+    "axios": "^0.33.0",
     "google-map-react": "^1.1.6",
     "moment": "^2.29.4",
     "react-loading": "^2.0.3"
